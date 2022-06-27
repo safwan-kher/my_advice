@@ -23,6 +23,8 @@
 
 
 6- Containers : 
+   
+   - [Docker And Containers Explained](https://www.youtube.com/watch?v=A0g7I4A6GN4)
    - [The concept of containerization](https://www.freecodecamp.org/news/the-docker-handbook/)
    - [Docker](https://www.docker.com/blog/getting-started-with-docker-using-node-jspart-i/)
 
