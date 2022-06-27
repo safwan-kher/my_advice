@@ -1,7 +1,11 @@
 ### What to learn extra out-side / after DCI :
+
 1-  How to use SCRUM as a Web Developer - Agile SCRUM methodology.
-2- Learning Cloud computing : AWS  ( ...Trending )  or GCP or Microsoft Azure '
+
+2- Learning Cloud computing : AWS  ( ...Trending )  or GCP or Microsoft Azure
+
 3-  CI/CD workflow _( theory  understanding )
+
 4- Javascript build tools: 
 -   [npm](https://www.npmjs.com/): Package manager.
 -   Read more:  [Package Management](https://developerexperience.io/practices/package-management)
